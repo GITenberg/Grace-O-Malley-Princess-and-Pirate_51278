@@ -1,0 +1,28 @@
+_repo: Grace-O-Malley-Princess-and-Pirate_51278
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Machray, Robert
+    birthdate: 1857
+    deathdate: 1946
+    gutenberg_agent_id: '40636'
+    url: http://www.gutenberg.org/2009/agents/40636
+description: ''
+gutenberg_issued: '2016-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biographical fiction'
+- !lcsh 'Princesses -- Fiction'
+- !lcsh 'Women pirates -- Fiction'
+- !lcsh 'O''Malley, Grace, 1530?-1603? -- Fiction'
+- !lcsh 'Ireland -- History -- 1558-1603 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Grace O'Malley, Princess and Pirate
+url: http://www.gutenberg.org/ebooks/51278
